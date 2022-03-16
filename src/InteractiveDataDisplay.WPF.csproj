@@ -42,6 +42,8 @@
     <PackageTags>idd wpf visualization plot plots plotting chart charting data interactive datavisualization</PackageTags>
     <PackageProjectUrl>https://github.com/Microsoft/InteractiveDataDisplay.WPF</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/Microsoft/InteractiveDataDisplay.WPF/blob/master/LICENSE</PackageLicenseUrl>
+    <ApplicationIcon />
+    <StartupObject />
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="PresentationCore" />

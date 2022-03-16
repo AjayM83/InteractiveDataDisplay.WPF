@@ -15,7 +15,7 @@ namespace InteractiveDataDisplay.WPF
         /// </summary>
         /// <param name="ticks">An array of double ticks.</param>
         /// <returns></returns>
-        FrameworkElement[] GetLabels(double[] ticks);
+        FrameworkElement[] GetLabels(double[] ticks) ;
     }
 }
 
